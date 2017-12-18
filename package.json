@@ -1,0 +1,24 @@
+{
+  "name": "codemap",
+  "version": "1.0.0",
+  "description": "Script that iterates over your codebase, assemble statistics and try to deduct things about the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boeriksson/CodeMap.git"
+  },
+  "author": "bo.branzell@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boeriksson/CodeMap/issues"
+  },
+  "homepage": "https://github.com/boeriksson/CodeMap#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}
